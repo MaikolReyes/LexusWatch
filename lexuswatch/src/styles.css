@@ -1,0 +1,12 @@
+.navbar-collapse{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-link{
+    color: white;
+}
+
+.navbar-brand{
+    color: white;
+}
