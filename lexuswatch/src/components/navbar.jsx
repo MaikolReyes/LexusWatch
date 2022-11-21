@@ -10,11 +10,11 @@ const Navbar = () => {
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <div>
-                        <img class="logo" src={logo} alt="Bootstrap" width="100" height="100" />
+                        <img class="logo" src={logo} alt="Bootstrap" width="120" height="120" />
                     </div>
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Inicioo</a>
+                            <a class="nav-link" href="#">Inicio</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#">Catalogo</a>
