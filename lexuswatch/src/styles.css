@@ -35,3 +35,9 @@ margin-top: 10px;
 
 }
 
+.productsContainer{
+    display: flex;
+    flex-flow: wrap;
+    gap: 15px;
+}
+

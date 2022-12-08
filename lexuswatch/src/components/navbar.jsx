@@ -23,8 +23,12 @@ const Navbar = () => {
                             <li className='nav-item'> Inicio</li>
                         </Link>
 
-                        <Link className='nav-link' to='/category/:categoryid'>
-                            <li className='nav-item'> Catalogo</li>
+                        <Link className='nav-link' to='/category/MLA352679'>
+                            <li className='nav-item'> SmartWatches</li>
+                        </Link>
+
+                        <Link className='nav-link' to='/category/MLA1055'>
+                            <li className='nav-item'> Celulares</li>
                         </Link>
 
                         <Link className='nav-link' to='/category/:categoryId'>
